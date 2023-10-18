@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\web-csharp-practice.props" />
+</Project>
